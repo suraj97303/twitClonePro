@@ -1,6 +1,6 @@
 # Twitter Clone
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 
 Twitter clone web application built using Next.js, Tailwind CSS, Prisma, and MongoDB. This clone allows users to post tweets, follow other users, like tweets, and perform various other Twitter-like functionalities.
 
@@ -25,7 +25,7 @@ Twitter clone web application built using Next.js, Tailwind CSS, Prisma, and Mon
 
 ## Demo
 
-https://github.com/ayusshrathore/twitter-clone/assets/61450246/a5a1e045-bcc9-4d6e-b33a-1611ddf7667c
+
 
 
 ## Prerequisites
@@ -170,16 +170,9 @@ Contributions to the Twitter clone project are welcome! If you find any issues o
 
 When submitting a pull request, ensure to include a clear description of the changes and any necessary steps to test the changes.
 
-## License
 
-This Twitter clone project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-This project was inspired by the functionality and design of the Twitter platform.
 
 ## Contact
-
-For any questions or inquiries, please contact [heyfreaker@gmail.com](mailto:heyfreaker@gmail.com).
-
 Happy tweeting!
+
